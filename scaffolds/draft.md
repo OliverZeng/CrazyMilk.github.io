@@ -1,3 +1,14 @@
+layout: draft
 title: {{ title }}
-tags:
+date: {{ date }}
+updated: {{ date }}
+comment: true
+categories:
+	-
+tags: []
 ---
+
+------
+main body.
+
+------

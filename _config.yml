@@ -9,7 +9,7 @@ description: 华南理工大学12级软件工程，在默默地等待着读研~
 author: CrazyMilk
 email: CatDringMilk@outlook.com
 language: zh-Hans
-keywords: "CrazyMilk"
+keywords: CrazyMilk
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -89,5 +89,6 @@ deploy:
   type: git
   repo: git@github.com:CrazyMilk/CrazyMilk.github.io.git
   branch: master
- 
 
+
+duoshuo_shortname: crazymilk.duoshuo.com
