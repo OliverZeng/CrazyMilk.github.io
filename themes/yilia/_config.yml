@@ -32,7 +32,7 @@ open_in_new: false
 
 # Miscellaneous
 google_analytics: ''
-favicon: /favicon.png
+favicon: /assets/images/favicon/favicon.png
 
 #你的头像url
 avatar: /assets/images/avatar/avatar.png
