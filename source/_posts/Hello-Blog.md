@@ -24,8 +24,6 @@ updated: 2015-12-27 22:10:36
 
 我的博客，CrazyMilk's Blog，你好~
 
-# 友情链接
+# 相关链接
 - [Litten的博客](http://litten.github.io/)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
-
-------
