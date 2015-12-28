@@ -50,7 +50,6 @@ tagcloud: true
 #friends: false
 #开启——
 friends:
-  奥巴马的博客: http://localhost:4000/
   JuniperPhoton: http://juniperphoton.net/
 
 #是否开启“关于我”。
