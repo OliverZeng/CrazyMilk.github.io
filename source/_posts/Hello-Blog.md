@@ -1,8 +1,6 @@
 layout: post
 title: Hello Blog
 comment: true
-categories:
-  - 日常
 tags: [随笔]
 date: 2015-12-27 14:54:36
 updated: 2015-12-27 22:10:36
