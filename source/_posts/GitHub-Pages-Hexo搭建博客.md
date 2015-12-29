@@ -16,6 +16,8 @@ updated: 2015-12-29 15:12:00
 
 我所总结的是单纯地利用GitHub Pages搭建自己独立博客的过程，并没有额外使用独立域名之类的（谁让我现在还没工资 o(^▽^)o ）。
 
+<!-- more -->
+
 如果是小小白，可以先花时间去了解下：
 * [Git](http://git-scm.com/book/zh/v2)
 * [GitHub](https://github.com/)
