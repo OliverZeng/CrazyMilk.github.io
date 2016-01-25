@@ -85,7 +85,7 @@ git是一个版本控制的工具，而github有点类似于远程仓库，用�
 
 #### 2.3.2.1 检查电脑是否已经有SSH keys。
 ``` bash
-$ ls -al ~/.SSH
+$ ls -al ~/.ssh
 # Lists the files in your .ssh directory, if they exist
 ```
 
