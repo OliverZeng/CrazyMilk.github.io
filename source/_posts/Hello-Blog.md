@@ -24,6 +24,8 @@ updated: 2015-12-27 22:10:36
 
 我的博客，CrazyMilk's Blog，你好~
 
+（对了，我不是做网页前端的，别问我这方面的知识）
+
 # 相关链接
 - [Litten的博客](http://litten.github.io/)
 - [hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
